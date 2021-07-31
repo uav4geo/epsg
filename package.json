@@ -1,10 +1,10 @@
 {
-  "name": "epsg",
+  "name": "u4g-epsg",
   "version": "0.5.0",
   "description": "List of all EPSG definitions from Proj4JS, adapted from proj4js-defs.",
   "main": "index.js",
   "scripts": {},
-  "repository": "github:stevage/epsg",
+  "repository": "github:uav4geo/epsg",
   "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
   "license": "Apache-2.0"
 }
